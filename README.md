@@ -4,6 +4,9 @@
 
 **MovieHub** is a simple and modern movie download website built using HTML, CSS, and JavaScript. Users can explore a collection of the latest movies and download them directly in various formats. The website is designed to be clean, responsive, and user-friendly.
 
+🔗 **Live Demo**: [Click here to view](https://feardluffy.github.io/Movie-landing-page/)
+
+---
 ## 🌟 Features
 
 - 🔍 Browse and search for the latest movies
